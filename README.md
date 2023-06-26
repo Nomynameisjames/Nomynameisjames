@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nomynameisjames" alt="nomynameisjames" /></a> </p>
 
-- 🔭 I’m currently working on [I am currently dedicated to developing LearnSociety, a comprehensive platform designed to guide aspiring full-stack developers on their learning journey. LearnSociety not only provides a well-structured roadmap to becoming a proficient full-stack developer but also offers a wealth of valuable resources to enhance productivity. Moreover, it fosters a vibrant community where like-minded individuals can engage, interact, and exchange perspectives, creating a collaborative learning environment.](https://github.com/Nomynameisjames/LearnSociety)
+- 🔭 I’m currently working on [LearnSociety](https://github.com/Nomynameisjames/LearnSociety)
 
 - 🌱 I’m currently learning **React**
 
